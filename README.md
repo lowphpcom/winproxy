@@ -1,5 +1,7 @@
 # WinProxy
 
+[中文文档](README.zh-CN.md)
+
 WinProxy is a small Windows Remote Desktop SOCKS5 forwarding tool written in Go.
 
 ## Features
