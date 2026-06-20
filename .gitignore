@@ -1,0 +1,9 @@
+.gocache/
+.tools/
+.agents/
+
+*.exe
+*.log
+*.tmp
+
+winproxy.json
